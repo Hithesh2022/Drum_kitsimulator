@@ -50,5 +50,5 @@ setTimeout(function(){
 activebutton.classList.remove("pressed");
 
 
-},100)
+},100);
 }
